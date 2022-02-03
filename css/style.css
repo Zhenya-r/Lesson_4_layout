@@ -1,0 +1,29 @@
+/* &display=swap */
+@import "null.css";
+@import url("https://fonts.googleapis.com/css?family=Lato:regular,700,900,&display=swap");
+
+body {
+	font-family: Lato, sans-serif;
+}
+.block {
+	max-width: 810px;
+	margin: 0 auto;
+	line-height: 1.6;
+}
+.title {
+	font-size: 46px;
+	font-weight: 900;
+	line-height: 1.3;
+}
+.text_bold {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1.5;
+}
+.text {
+}
+.list {
+}
+.list__item {
+	list-style: circle;
+}
